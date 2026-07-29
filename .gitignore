@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+database/
+faiss_index/
+.env
+credentials.json
+token.json
