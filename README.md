@@ -145,5 +145,3 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 **Akansha Uniyal**
-
-AI/ML Developer | Data Science Enthusiast
